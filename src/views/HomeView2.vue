@@ -1,263 +1,150 @@
 <template>
-  <section class="banner pb-80">
+  <!--  Banner start -->
+  <section class="banner pb-80 dark-bg">
     <div class="container">
       <div class="row align-items-center justify-content-between">
         <div class="col-md-12 col-lg-6">
-          <div class="banner-content">
+          <div class="banner-content ">
             <span class="subheading">50% discount on early purchase</span>
             <h1>Solve your daily life problem in 1 minute</h1>
             <ul>
               <li><i class="fa fa-check"></i>Learn From Expert in details</li>
               <li><i class="fa fa-check"></i>16 Chapters included</li>
-              <li>
-                <i class="fa fa-check"></i>eBook includes iBooks, PDF & ePub
-                versions
-              </li>
-              <li>
-                <i class="fa fa-check"></i>Audio book with every purchase
-              </li>
+              <li><i class="fa fa-check"></i>eBook includes iBooks, PDF & ePub versions</li>
+              <li><i class="fa fa-check"></i>Audio book with every purchase</li>
             </ul>
-            <a href="#" class="btn btn-main">Get this book at 29$</a>
-            <p>Interested in free chapter? <a href="#">Get it now</a></p>
+            <a href="#" class="btn btn-main btn-dark-bg">Get this book at 29$</a>
+            <p>Interested in free chapter? <a href="#" class="text-color">Get it now</a></p>
           </div>
         </div>
         <div class="col-lg-5">
           <div class="banner-img">
-            <img src="assets/images/banner/book.png" alt="" class="img-fluid" />
+            <img src="assets/images/banner/book.png" alt="" class="img-fluid">
           </div>
         </div>
-      </div>
-      <!-- / .row -->
-    </div>
-    <!-- / .container -->
+      </div> <!-- / .row -->
+    </div> <!-- / .container -->
   </section>
 
-  <section class="pt-100 center-about bg-grey">
+  <!--  Banner section ENd -->
+
+  <!-- Intro Section Start -->
+  <section class="pt-100 center-about dark-bg-light">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-lg-8">
+        <div class="col-lg-8 col-xl-8">
           <div class="section-heading text-center">
             <span>Creative works funnel</span>
-            <h2>
-              Explore the most appropriate courses and certificate that you
-              desire will be the sweet ultimate reward. Let’s get started
-            </h2>
-            <a href="#">Have questions?
-              <strong class="text-color">Get Free Guidebook</strong>
-            </a>
+            <h2>Explore the most appropriate courses and certificate that you desire will be the sweet ultimate reward.
+              Let’s get started</h2>
+            <a href="#">Have questions?<strong class="text-color">Get Free Guidebook</strong> </a>
           </div>
         </div>
       </div>
     </div>
 
-    <section class="cta-2 clients">
+    <section class="cta-2 clients ">
       <div class="container">
         <div class="row">
-          <div class="col-lg-2 col-sm-6">
+          <div class="col-lg-2 col-sm-6 ">
             <div class="client-logo">
-              <img src="assets/images/clients/logo1.png" alt="" class="img-fluid" />
+              <img src="assets/images/clients/logo1.png" alt="" class="img-fluid">
             </div>
           </div>
           <div class="col-lg-2 col-sm-6">
             <div class="client-logo">
-              <img src="assets/images/clients/logo2.png" alt="" class="img-fluid" />
+              <img src="assets/images/clients/logo2.png" alt="" class="img-fluid">
             </div>
           </div>
           <div class="col-lg-2 col-sm-6">
             <div class="client-logo">
-              <img src="assets/images/clients/logo3.png" alt="" class="img-fluid" />
+              <img src="assets/images/clients/logo3.png" alt="" class="img-fluid">
             </div>
           </div>
           <div class="col-lg-2 col-sm-6">
             <div class="client-logo">
-              <img src="assets/images/clients/logo4.png" alt="" class="img-fluid" />
+              <img src="assets/images/clients/logo4.png" alt="" class="img-fluid">
             </div>
           </div>
           <div class="col-lg-2 col-sm-6">
             <div class="client-logo">
-              <img src="assets/images/clients/logo5.png" alt="" class="img-fluid" />
+              <img src="assets/images/clients/logo5.png" alt="" class="img-fluid">
             </div>
           </div>
           <div class="col-lg-2 col-sm-6">
             <div class="client-logo">
-              <img src="assets/images/clients/logo6.png" alt="" class="img-fluid" />
+              <img src="assets/images/clients/logo6.png" alt="" class="img-fluid">
             </div>
           </div>
         </div>
       </div>
     </section>
   </section>
+  <!--  Intro section End -->
 
-  <section class="about-section section-padding bg-grey" id="about">
+  <!-- About section Start -->
+  <section class="about-section section-padding dark-bg-light" id="about">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-md-6">
           <div class="about-img">
-            <img src="assets/images/banner/book.png" alt="" class="img-fluid" />
+            <img src="assets/images/banner/book.png" alt="" class="img-fluid">
           </div>
         </div>
         <div class="col-lg-6 col-md-6">
           <div class="section-heading">
             <span class="subheading">50% discount on early purchase</span>
-            <h3 class="heading-title">
-              Everything in your hand using mobile or tablet
-            </h3>
-            <p>
-              This lovely, well-written book is concerned with creating
-              typography and is essential for professionals.
+            <h3 class="heading-title">Everything in your hand using mobile or tablet</h3>
+            <p>This lovely, well-written book is concerned with creating typography and is essential for professionals.
             </p>
           </div>
 
           <div class="about-text-block">
             <i class="bi bi-badge2"></i>
             <h4>10+ award achieved</h4>
-            <p>
-              Debitis ab ipsum a autem sit ducimus voluptatem, quos.
-              Consequatur non eum facilis, ex repellendus, vitae debitis.
-            </p>
+            <p>Debitis ab ipsum a autem sit ducimus voluptatem, quos. Consequatur non eum facilis, ex repellendus, vitae
+              debitis.</p>
           </div>
           <div class="about-text-block">
             <i class="bi bi-support"></i>
             <h4>Read On Any Device</h4>
-            <p>
-              Debitis ab ipsum a autem sit ducimus voluptatem, quos.
-              Consequatur non eum facilis, ex repellendus, vitae debitis.
-            </p>
+            <p>Debitis ab ipsum a autem sit ducimus voluptatem, quos. Consequatur non eum facilis, ex repellendus, vitae
+              debitis.</p>
           </div>
           <div class="about-text-block">
             <i class="bi bi-rocket2"></i>
             <h4>Marketing Goals</h4>
-            <p>
-              Debitis ab ipsum a autem sit ducimus voluptatem, quos.
-              Consequatur non eum facilis, ex repellendus, vitae debitis.
-            </p>
+            <p>Debitis ab ipsum a autem sit ducimus voluptatem, quos. Consequatur non eum facilis, ex repellendus, vitae
+              debitis.</p>
           </div>
-          <a href="#" class="btn btn-main-2"><i class="fa fa-check mr-2"></i>More About Support</a>
+          <a href="#" class="btn btn-main-2 btn-dark-theme"><i class="fa fa-check mr-2"></i>More About Support</a>
         </div>
       </div>
     </div>
   </section>
+  <!--  About section end -->
 
-  <section class="chapter-section section-padding bg-white" id="chapters">
-    <div class="container">
-      <div class="row align-items-center justify-content-center">
-        <div class="col-lg-8">
-          <div class="center-heading mb-60">
-            <h3 class="heading-title">Chapters we've covered</h3>
-            <p>
-              This lovely, well-written book is concerned with creating
-              typography and is essential for professionals who regularly work
-              for clients.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-4 col-md-6">
-          <div class="chapter-list">
-            <div class="chapter-item">
-              <h4><span>Chapter 1</span> Data Science Process</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
-              </p>
-            </div>
-            <div class="chapter-item">
-              <h4><span>Chapter 2</span>The rise of trend Design</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
-              </p>
-            </div>
-            <div class="chapter-item">
-              <h4><span>Chapter 3 </span> The rise of trend Design</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6">
-          <div class="chapter-list">
-            <div class="chapter-item">
-              <h4><span>Chapter 4</span> The rise of trend Design</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
-              </p>
-            </div>
-            <div class="chapter-item">
-              <h4><span>Chapter 5</span> Data Science Process</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
-              </p>
-            </div>
-            <div class="chapter-item">
-              <h4><span>Chapter 6</span> The rise of trend Design</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6">
-          <div class="chapter-list border-right-0">
-            <div class="chapter-item">
-              <h4><span>Chapter 7 </span> The rise of trend Design</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
-              </p>
-            </div>
-            <div class="chapter-item">
-              <h4><span>Chapter 8</span> Data Science Process</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
-              </p>
-            </div>
-
-            <div class="chapter-item">
-              <h4><span>Chapter 9 </span> The rise of trend Design</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section class="book-preview section-padding" id="topics">
+  <!--  Book Topics Start -->
+  <section class="book-preview section-padding dark-bg-light" id="topics">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-lg-6">
+        <div class="col-lg-8 col-xl-6">
           <div class="section-heading center-heading text-center mb-60">
             <h3 class="heading-title text-white">Thing's you will learn</h3>
-            <p class="text-white">
-              This book is concerned with creating typography and is essential
-              for professionals who regularly work for clients.
-            </p>
+            <p class="text-white">This book is concerned with creating typography and is essential for professionals who
+              regularly work for clients.</p>
           </div>
         </div>
       </div>
       <div class="row justify-content-center">
         <div class="col-lg-6">
-          <div class="topic-item">
+          <div class="topic-item ">
             <div class="icon-box">
               <i class="fa fa-check"></i>
             </div>
             <div class="topic-content">
               <h4>How to improve yourself</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
               </p>
             </div>
           </div>
@@ -268,9 +155,7 @@
             </div>
             <div class="topic-content">
               <h4>Utilize time productively</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
               </p>
             </div>
           </div>
@@ -280,9 +165,7 @@
             </div>
             <div class="topic-content">
               <h4>How to think creatively</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
               </p>
             </div>
           </div>
@@ -295,9 +178,7 @@
             </div>
             <div class="topic-content">
               <h4>10 tips to improve yourself</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
               </p>
             </div>
           </div>
@@ -308,9 +189,7 @@
             </div>
             <div class="topic-content">
               <h4>Powerful tips & tricks</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
               </p>
             </div>
           </div>
@@ -319,10 +198,8 @@
               <i class="fa fa-check"></i>
             </div>
             <div class="topic-content">
-              <h4>Grow your personality</h4>
-              <p>
-                Well-written book is concerned with creating typography and is
-                essential for professionals who regularly
+              <h4>Grow your personality </h4>
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
               </p>
             </div>
           </div>
@@ -330,20 +207,21 @@
       </div>
     </div>
   </section>
-  <section class="feature-2 section-padding">
+  <!--  Book Topics End -->
+
+  <!--  Feature section Start -->
+  <section class="feature-2 section-padding dark-bg-light">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-lg-6">
+        <div class="col-lg-8 col-xl-6">
           <div class="section-heading center-heading text-center mb-60">
             <h3 class="heading-title">Who This Book Is For</h3>
-            <p>
-              This book is concerned with creating typography and is essential
-              for professionals who regularly work for clients.
-            </p>
+            <p>This book is concerned with creating typography and is essential for professionals who regularly work for
+              clients.</p>
           </div>
         </div>
       </div>
-      <div class="row">
+      <div class="row ">
         <div class="col-lg-4 col-md-6">
           <div class="feature-style-2 mb-4 mb-lg-0">
             <i class="bi bi-badge2"></i>
@@ -358,7 +236,7 @@
             <i class="bi bi-article"></i>
             <div class="feature-text">
               <h4>Project Managers</h4>
-              <p>Behind the word mountains, far from the countries</p>
+              <p>Behind the word mountains, far from the countries </p>
             </div>
           </div>
         </div>
@@ -374,12 +252,15 @@
       </div>
     </div>
   </section>
-  <section class="counter-wrap pb-100">
+  <!-- Features end -->
+
+  <!-- Counter start -->
+  <section class="counter-wrap pb-100 dark-bg-light">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-6">
           <div class="about-counter-img">
-            <img src="assets/images/bg/about.png" alt="" class="img-fluid" />
+            <img src="assets/images/bg/about.png" alt="" class="img-fluid">
           </div>
         </div>
         <div class="col-lg-6">
@@ -419,7 +300,7 @@
                 <div class="count">
                   <span class="counter h2">24</span><span class="h2">+</span>
                 </div>
-                <p>Award we have got from different organization</p>
+                <p>Award we have got from different organization </p>
               </div>
             </div>
           </div>
@@ -427,16 +308,19 @@
       </div>
     </div>
   </section>
-  <section class="cta pb-100">
+  <!--  Counter end -->
+
+  <!--  CTa Start -->
+  <section class="cta pb-100 dark-bg-light">
     <div class="container">
-      <div class="row justify-content-center cta-inner">
+      <div class="row justify-content-center cta-inner bg-white-50">
         <div class="col-lg-8">
           <div class="cta-content">
             <span class="subheading2">Subscribe now</span>
             <h2 class="heading-title">Get a free chapter of this book</h2>
             <form action="#" class="subsribe">
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Email Address" />
+                <input type="text" class="form-control" placeholder="Email Address">
               </div>
               <a href="#" class="btn btn-main w-100">Subscribe<i class="fa fa-angle-right ml-2"></i></a>
               <p>* eBook includes iBooks, PDF & ePub versions</p>
@@ -446,16 +330,97 @@
       </div>
     </div>
   </section>
-  <section class="testimonial section-padding bg-grey" id="testimonial">
+
+  <!-- Cta End -->
+
+
+  <!--  Book Chapter Start -->
+  <section class="chapter-section section-padding dark-bg" id="chapters">
+    <div class="container">
+      <div class="row align-items-center justify-content-center">
+        <div class="col-lg-8 col-xl-8">
+          <div class="center-heading mb-60">
+            <h3 class="heading-title">Chapters we've covered</h3>
+            <p>This lovely, well-written book is concerned with creating typography and is essential for professionals who
+              regularly work for clients.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 col-md-6">
+          <div class="chapter-list">
+            <div class="chapter-item">
+              <h4><span>Chapter 1</span> Data Science Process </h4>
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
+              </p>
+            </div>
+            <div class="chapter-item">
+              <h4><span>Chapter 2</span>The rise of trend Design </h4>
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
+              </p>
+            </div>
+            <div class="chapter-item">
+              <h4><span>Chapter 3 </span> The rise of trend Design </h4>
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6">
+          <div class="chapter-list">
+            <div class="chapter-item">
+              <h4><span>Chapter 4</span> The rise of trend Design </h4>
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
+              </p>
+            </div>
+            <div class="chapter-item">
+              <h4><span>Chapter 5</span> Data Science Process </h4>
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
+              </p>
+            </div>
+            <div class="chapter-item">
+              <h4><span>Chapter 6</span> The rise of trend Design </h4>
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6">
+          <div class="chapter-list border-right-0">
+            <div class="chapter-item">
+              <h4><span>Chapter 7 </span> The rise of trend Design </h4>
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
+              </p>
+            </div>
+            <div class="chapter-item">
+              <h4><span>Chapter 8</span> Data Science Process </h4>
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
+              </p>
+            </div>
+
+            <div class="chapter-item">
+              <h4><span>Chapter 9 </span> The rise of trend Design </h4>
+              <p>Well-written book is concerned with creating typography and is essential for professionals who regularly
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--  Book Chapter ENd -->
+
+  <!-- Testimonial Start -->
+  <section class="testimonial section-padding dark-bg" id="testimonial">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-lg-6">
+        <div class="col-lg-8 col-xl-6">
           <div class="section-heading center-heading text-center mb-60">
             <h3 class="heading-title">Reviews from happy readers</h3>
-            <p>
-              This book is concerned with creating typography and is essential
-              for professionals who regularly work for clients.
-            </p>
+            <p>This book is concerned with creating typography and is essential for professionals who regularly work for
+              clients.</p>
           </div>
         </div>
       </div>
@@ -472,15 +437,12 @@
                   <a href="#"><i class="fa fa-star"></i></a>
                 </div>
                 <h4>Very Effective!</h4>
-                <p>
-                  They are creative enough.Very much creative and powerful
-                  enough.Lorem ipsum dolor sit amet consectetur adipisicing
-                  elit.
-                </p>
+                <p>They are creative enough.Very much creative and powerful enough.Lorem ipsum dolor sit amet consectetur
+                  adipisicing elit.</p>
               </div>
               <div class="client-desc d-flex align-items-center">
                 <div class="client-img">
-                  <img src="assets/images/clients/test-1.jpg" alt="" class="img-fluid" />
+                  <img src="assets/images/clients/test-1.jpg" alt="" class="img-fluid">
                 </div>
                 <div class="client-text">
                   <h5>John Doe</h5>
@@ -499,15 +461,13 @@
                   <a href="#"><i class="fa fa-star"></i></a>
                 </div>
                 <h4>Very Effective!</h4>
-                <p>
-                  They are creative enough.Very much creative and powerful
-                  enough.Lorem ipsum dolor sit amet consectetur adipisicing
-                  elit.
-                </p>
+                <p>They are creative enough.Very much creative and powerful enough.Lorem ipsum dolor sit amet consectetur
+                  adipisicing elit.</p>
+
               </div>
               <div class="client-desc d-flex align-items-center">
                 <div class="client-img">
-                  <img src="assets/images/clients/test-2.jpg" alt="" class="img-fluid" />
+                  <img src="assets/images/clients/test-2.jpg" alt="" class="img-fluid">
                 </div>
                 <div class="client-text">
                   <h5>John Doe</h5>
@@ -515,6 +475,7 @@
                 </div>
               </div>
             </div>
+
 
             <div class="review-item">
               <div class="client-info">
@@ -526,15 +487,13 @@
                   <a href="#"><i class="fa fa-star"></i></a>
                 </div>
                 <h4>Very Effective!</h4>
-                <p>
-                  They are creative enough.Very much creative and powerful
-                  enough.Lorem ipsum dolor sit amet consectetur adipisicing
-                  elit.
-                </p>
+                <p>They are creative enough.Very much creative and powerful enough.Lorem ipsum dolor sit amet consectetur
+                  adipisicing elit.</p>
+
               </div>
               <div class="client-desc d-flex align-items-center">
                 <div class="client-img">
-                  <img src="assets/images/clients/test-3.jpg" alt="" class="img-fluid" />
+                  <img src="assets/images/clients/test-3.jpg" alt="" class="img-fluid">
                 </div>
                 <div class="client-text">
                   <h5>John Doe</h5>
@@ -552,15 +511,12 @@
                   <a href="#"><i class="fa fa-star"></i></a>
                 </div>
                 <h4>Very Effective!</h4>
-                <p>
-                  They are creative enough.Very much creative and powerful
-                  enough.Lorem ipsum dolor sit amet consectetur adipisicing
-                  elit.
-                </p>
+                <p>They are creative enough.Very much creative and powerful enough.Lorem ipsum dolor sit amet consectetur
+                  adipisicing elit.</p>
               </div>
               <div class="client-desc d-flex align-items-center">
                 <div class="client-img">
-                  <img src="assets/images/clients/test-1.jpg" alt="" class="img-fluid" />
+                  <img src="assets/images/clients/test-1.jpg" alt="" class="img-fluid">
                 </div>
                 <div class="client-text">
                   <h5>John Doe</h5>
@@ -573,75 +529,54 @@
       </div>
     </div>
   </section>
+  <!-- Testimonial End -->
 
-  <section class="author-section section-padding bg-white" id="author">
+  <!-- Author start -->
+  <section class="author-section section-padding dark-bg-light" id="author">
     <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-lg-6">
-          <div class="section-heading center-heading text-center mb-60">
-            <h3 class="heading-title">About the author</h3>
-            <p>
-              This book is concerned with creating typography and is essential
-              for professionals who regularly work for clients.
-            </p>
-          </div>
-        </div>
-      </div>
       <div class="row">
         <div class="col-lg-5 col-md-6">
           <div class="auhtor-img mb-4 mb-lg-0">
-            <img src="assets/images/bg/author.jpg" alt="" class="img-fluid" />
+            <img src="assets/images/bg/author.jpg" alt="" class="img-fluid">
           </div>
         </div>
         <div class="col-lg-6 col-md-6">
           <div class="section-heading mb-0">
             <h3 class="heading-title">Michale John</h3>
-            <p>
-              My name is john . Lorem ipsum dolor sit amet consectetur
-              adipisicing elit. Consequuntur, professionals who regularly
-            </p>
-            <p>
-              This lovely, well-written book is concerned with creating
-              typography and is essential for professionals who regularly work
-              for clients.
-            </p>
+            <p>My name is john . Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, professionals who
+              regularly</p>
+            <p>This lovely, well-written book is concerned with creating typography and is essential for professionals who
+              regularly work for clients.</p>
           </div>
 
           <div class="author-desc">
             <ul class="list-unstyled">
               <li><i class="fa fa-check"></i> Achieved 10+ awarded</li>
-              <li>
-                <i class="fa fa-check"></i> Very passionate about writting
-              </li>
-              <li>
-                <i class="fa fa-check"></i> Most Popular writter in the year
-              </li>
+              <li><i class="fa fa-check"></i> Very passionate about writting</li>
+              <li><i class="fa fa-check"></i> Most Popular writter in the year</li>
             </ul>
-            <p>
-              Reach Me on <a href="#">Twiiter</a> or
-              <a href="#">Facebook</a> or <a href="#">Linkedin</a>
-            </p>
+            <p>Reach Me on <a href="#">Twiiter</a> or <a href="#">Facebook</a> or <a href="#">Linkedin</a></p>
           </div>
         </div>
       </div>
     </div>
   </section>
+  <!--  author end -->
 
-  <section class="pricing section-padding bg-grey" id="pricing">
+  <!-- Pricing start -->
+  <section class="pricing section-padding dark-bg" id="pricing">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-lg-8">
+        <div class="col-lg-8 col-xl-8">
           <div class="section-heading center-heading text-center mb-60">
             <h3 class="heading-title">Pricing and Plans</h3>
-            <p>
-              This book is concerned with creating typography and is essential
-              for professionals who regularly work for clients.
-            </p>
+            <p>This book is concerned with creating typography and is essential for professionals who regularly work for
+              clients.</p>
           </div>
         </div>
       </div>
 
-      <div class="row">
+      <div class="row ">
         <div class="col-lg-4 col-md-6">
           <div class="pricing-item mb-4 mb-lg-0">
             <div class="pricing-header">
@@ -654,14 +589,14 @@
             <p>Get one chapter of pdf version for free busy subscribing</p>
 
             <ul class="pricing-features">
-              <li><i class="fa fa-circle"></i>1 Free Chapter</li>
-              <li><i class="fa fa-circle"></i>PDF version</li>
-              <li><i class="fa fa-circle"></i>Free Subscripion</li>
-              <li><i class="fa fa-circle"></i>No hardcover</li>
+              <li> <i class="fa fa-circle"></i>1 Free Chapter</li>
+              <li> <i class="fa fa-circle"></i>PDF version</li>
+              <li> <i class="fa fa-circle"></i>Free Subscripion</li>
+              <li> <i class="fa fa-circle"></i>No hardcover </li>
             </ul>
 
             <div class="pricing-footer">
-              <a href="#" class="btn btn-main-2">Get it now</a>
+              <a href="#" class="btn btn-dark-theme">Get it now</a>
             </div>
           </div>
         </div>
@@ -675,17 +610,15 @@
               <h3>$49.99</h3>
               <p>One time purchase</p>
             </div>
-            <p>
-              Get Ebbok version with audio book in hand with pdf version also
-            </p>
+            <p>Get Ebbok version with audio book in hand with pdf version also</p>
             <ul class="pricing-features">
-              <li><i class="fa fa-circle"></i>Ebook Version</li>
-              <li><i class="fa fa-circle"></i>Audio Book</li>
-              <li><i class="fa fa-circle"></i>PDF version</li>
-              <li><i class="fa fa-circle"></i>Free Subscripion</li>
+              <li> <i class="fa fa-circle"></i>Ebook Version</li>
+              <li> <i class="fa fa-circle"></i>Audio Book</li>
+              <li> <i class="fa fa-circle"></i>PDF version</li>
+              <li> <i class="fa fa-circle"></i>Free Subscripion</li>
             </ul>
             <div class="pricing-footer">
-              <a href="#" class="btn btn-main-2">Buy From amazon</a>
+              <a href="#" class="btn btn-dark-bg">Buy From amazon</a>
             </div>
           </div>
         </div>
@@ -701,30 +634,31 @@
             </div>
             <p>Get Ebbok version with audio book and Hardcover printed</p>
             <ul class="pricing-features">
-              <li><i class="fa fa-circle"></i>Ebook Version</li>
-              <li><i class="fa fa-circle"></i>Audio Book</li>
-              <li><i class="fa fa-circle"></i>PDF version</li>
-              <li><i class="fa fa-circle"></i>hardcover variation</li>
+              <li> <i class="fa fa-circle"></i>Ebook Version</li>
+              <li> <i class="fa fa-circle"></i>Audio Book</li>
+              <li> <i class="fa fa-circle"></i>PDF version</li>
+              <li> <i class="fa fa-circle"></i>hardcover variation</li>
             </ul>
 
             <div class="pricing-footer">
-              <a href="#" class="btn btn-main-2">Buy From amazon</a>
+              <a href="#" class="btn  btn-dark-theme">Buy From amazon</a>
             </div>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <section class="faq section-padding bg-grey pt-0" id="faq">
+  <!-- pricing end -->
+
+  <!-- Faq Start -->
+  <section class="faq section-padding dark-bg-light" id="faq">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-lg-8">
+        <div class="col-lg-8 col-xl-8">
           <div class="section-heading center-heading text-center mb-60">
             <h3 class="heading-title">Frequently Asked Questions</h3>
-            <p>
-              This book is concerned with creating typography and is essential
-              for professionals who regularly work for clients.
-            </p>
+            <p>This book is concerned with creating typography and is essential for professionals who regularly work for
+              clients.</p>
           </div>
         </div>
       </div>
@@ -733,7 +667,7 @@
           <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingOne">
-                <h4 class="panel-title">
+                <h4 class="panel-title ">
                   <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
                     aria-controls="collapseOne">
                     <i class="more-less fa fa-plus"></i>
@@ -743,17 +677,15 @@
               </div>
               <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                 <div class="panel-body">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life
-                  accusamus terry richardson ad squid. 3 wolf moon officia
-                  aute, non cupidatat skateboard dolor brunch. Food truck
-                  quinoa nesciunt laborum
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
+                  moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum
                 </div>
               </div>
             </div>
 
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingTwo">
-                <h4 class="panel-title">
+                <h4 class="panel-title ">
                   <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
                     aria-controls="collapseTwo">
                     <i class="more-less fa fa-plus"></i>
@@ -763,17 +695,15 @@
               </div>
               <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                 <div class="panel-body">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life
-                  accusamus terry richardson ad squid. 3 wolf moon officia
-                  aute, non cupidatat skateboard dolor brunch. Food truck
-                  quinoa nesciunt laborum
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
+                  moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum
                 </div>
               </div>
             </div>
 
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingThree">
-                <h4 class="panel-title">
+                <h4 class="panel-title ">
                   <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
                     aria-controls="collapseThree">
                     <i class="more-less fa fa-plus"></i>
@@ -783,16 +713,14 @@
               </div>
               <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                 <div class="panel-body">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life
-                  accusamus terry richardson ad squid. 3 wolf moon officia
-                  aute, non cupidatat skateboard dolor brunch. Food truck
-                  quinoa nesciunt laborum
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
+                  moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum
                 </div>
               </div>
             </div>
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingFour">
-                <h4 class="panel-title">
+                <h4 class="panel-title ">
                   <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
                     aria-controls="collapseFour">
                     <i class="more-less fa fa-plus"></i>
@@ -802,22 +730,19 @@
               </div>
               <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
                 <div class="panel-body">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life
-                  accusamus terry richardson ad squid. 3 wolf moon officia
-                  aute, non cupidatat skateboard dolor brunch. Food truck
-                  quinoa nesciunt laborum
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
+                  moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum
                 </div>
               </div>
             </div>
-          </div>
-          <!-- panel-group -->
+          </div><!-- panel-group -->
         </div>
 
         <div class="col-lg-6">
           <div class="panel-group" id="accordion2" role="tablist" aria-multiselectable="true">
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="heading5">
-                <h4 class="panel-title">
+                <h4 class="panel-title ">
                   <a role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapse5"
                     aria-controls="collapse5">
                     <i class="more-less fa fa-plus"></i>
@@ -827,17 +752,15 @@
               </div>
               <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
                 <div class="panel-body">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life
-                  accusamus terry richardson ad squid. 3 wolf moon officia
-                  aute, non cupidatat skateboard dolor brunch. Food truck
-                  quinoa nesciunt laborum
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
+                  moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum
                 </div>
               </div>
             </div>
 
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="heading6">
-                <h4 class="panel-title">
+                <h4 class="panel-title ">
                   <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapse6"
                     aria-controls="collapse6">
                     <i class="more-less fa fa-plus"></i>
@@ -847,17 +770,15 @@
               </div>
               <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
                 <div class="panel-body">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life
-                  accusamus terry richardson ad squid. 3 wolf moon officia
-                  aute, non cupidatat skateboard dolor brunch. Food truck
-                  quinoa nesciunt laborum
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
+                  moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum
                 </div>
               </div>
             </div>
 
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="heading7">
-                <h4 class="panel-title">
+                <h4 class="panel-title ">
                   <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapse7"
                     aria-controls="collapse7">
                     <i class="more-less fa fa-plus"></i>
@@ -867,16 +788,14 @@
               </div>
               <div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading7">
                 <div class="panel-body">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life
-                  accusamus terry richardson ad squid. 3 wolf moon officia
-                  aute, non cupidatat skateboard dolor brunch. Food truck
-                  quinoa nesciunt laborum
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
+                  moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum
                 </div>
               </div>
             </div>
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="heading8">
-                <h4 class="panel-title">
+                <h4 class="panel-title ">
                   <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapse8"
                     aria-controls="collapse8">
                     <i class="more-less fa fa-plus"></i>
@@ -886,40 +805,33 @@
               </div>
               <div id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading8">
                 <div class="panel-body">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life
-                  accusamus terry richardson ad squid. 3 wolf moon officia
-                  aute, non cupidatat skateboard dolor brunch. Food truck
-                  quinoa nesciunt laborum
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
+                  moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum
                 </div>
               </div>
             </div>
-          </div>
-          <!-- panel-group -->
-        </div>
-
-        <div class="mt-5 text-center">
-          <a href="#" class="btn btn-main-2">Get it now on amazon</a>
+          </div><!-- panel-group -->
         </div>
       </div>
     </div>
   </section>
-  <!-- Cpntact -->
-  <section class="section-padding contact bg-white" id="contact">
+  <!-- Faq End -->
+
+  <!-- Contact Start-->
+  <section class="section-padding contact dark-bg" id="contact">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-lg-8">
+        <div class="col-lg-8 col-xl-8">
           <div class="section-heading center-heading text-center mb-60">
             <h3 class="heading-title">Contact with Author</h3>
-            <p>
-              This book is concerned with creating typography and is essential
-              for professionals who regularly work for clients.
-            </p>
+            <p>This book is concerned with creating typography and is essential for professionals who regularly work for
+              clients.</p>
           </div>
         </div>
       </div>
       <div class="row justify-content-center">
         <div class="col-lg-10 col-sm-12 col-md-12">
-          <form class="contact__form form-row contact-form" method="post" action="mail.php" id="contactForm">
+          <form class="contact__form form-row contact-form " method="post" action="mail.php" id="contactForm">
             <div class="row">
               <div class="col-12">
                 <div class="alert alert-success contact__msg" style="display: none" role="alert">
@@ -928,15 +840,16 @@
               </div>
             </div>
 
+
             <div class="col-lg-6">
               <div class="form-group">
-                <input type="text" id="name" name="name" class="form-control" placeholder="Enter Your Name" />
+                <input type="text" id="name" name="name" class="form-control" placeholder="Enter Your Name">
               </div>
             </div>
 
             <div class="col-lg-6">
               <div class="form-group">
-                <input type="text" name="email" id="email" class="form-control" placeholder="Enter Your Email Address" />
+                <input type="text" name="email" id="email" class="form-control" placeholder="Enter Your Email Address">
               </div>
             </div>
             <div class="col-lg-12">
@@ -949,7 +862,7 @@
             <div class="col-lg-12">
               <div class="d-lg-flex justify-content-between mt-4">
                 <p>* Rest assured. We will not spam at your inbox.</p>
-                <input id="submit" name="submit" type="submit" class="btn btn-main-2" value="Send Message" />
+                <input id="submit" name="submit" type="submit" class="btn btn-dark-bg" value="Send Message">
               </div>
             </div>
           </form>
@@ -957,4 +870,5 @@
       </div>
     </div>
   </section>
+  <!-- Contact End -->
 </template>
